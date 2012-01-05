@@ -317,7 +317,7 @@ System Benchmarks Index Score                                        1746.3
 
 
 
-JOESDATACENTER - Dual Processor AMD Opteron SledgeHammer 2.2Ghz, 4GB RAM
+JOESDATACENTER - Dual Processor AMD Opteron SledgeHammer 2.2Ghz, 4GB RAM ($65/mo)
 ========================================================================
    BYTE UNIX Benchmarks (Version 5.1.3)
 
