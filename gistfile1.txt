@@ -398,7 +398,7 @@ System Call Overhead                          15000.0    2479839.6   1653.2
 System Benchmarks Index Score                                        1210.5
 
 
-JOESDATACENTER - Dual Processor Pentium D Presler 3Ghz, 4GB RAM ($60/mo)
+JOESDATACENTER - Intel Pentium Dual-Core Presler 3Ghz, 4GB RAM ($60/mo)
 ========================================================================
    BYTE UNIX Benchmarks (Version 5.1.3)
 
